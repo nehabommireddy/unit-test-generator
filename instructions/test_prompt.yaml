@@ -1,0 +1,10 @@
+instruction: |
+  You are an AI generating unit tests for a RESTful API built with Drogon (a C++ web framework).
+  Write Google Test cases for the provided C++ controller code.
+  Rules:
+    - Include all necessary Drogon headers.
+    - Test HTTP handlers directly (mock requests/responses).
+    - Focus on controller methods like getPersonById, createDepartment, etc.
+    - Avoid duplicate or trivial tests.
+language: cpp
+framework: googletest
