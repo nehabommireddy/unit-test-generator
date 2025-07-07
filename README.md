@@ -25,7 +25,7 @@ This project automates unit test generation for a Drogon-based C++ RESTful API u
 
 ---
 ## Unit Test Coverage
-![image](https://github.com/user-attachments/assets/16a0da2e-eb5b-42f1-8ab2-cb1cc4c1e6e0)
+![image](https://github.com/user-attachments/assets/4de8591d-0668-487e-b605-ecde0e3be7e7)
 
 ## Approach
 1. LLM-Powered Test Generation
